@@ -10,8 +10,8 @@
   "name":"oTestA",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buffer2D",
-    "path":"Buffer2D.yyp",
+    "name":"BufferGrid",
+    "path":"BufferGrid.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Buffer2D",
+  "%Name":"BufferGrid",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -19,7 +19,7 @@
   "MetaData":{
     "IDEVersion":"2026.0.0.16",
   },
-  "name":"Buffer2D",
+  "name":"BufferGrid",
   "resources":[
     {"id":{"name":"oTestA","path":"objects/oTestA/oTestA.yy",},},
     {"id":{"name":"oTestB","path":"objects/oTestB/oTestB.yy",},},
