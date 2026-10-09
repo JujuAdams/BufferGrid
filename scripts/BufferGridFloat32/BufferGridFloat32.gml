@@ -33,6 +33,16 @@ function BufferGridFloat32(_width, _height) constructor
     __size   = __BUFFERGRID_F32_SIZE*__width*__height;
     __buffer = buffer_create(__size, buffer_fixed, __BUFFERGRID_F32_SIZE);
     
+    static GetDatatypeSize = function()
+    {
+        return _datatypeSize;
+    }
+    
+    static GetDatatype = function()
+    {
+        return buffer_u32;
+    }
+    
     static GetLooping = function()
     {
         return false;
